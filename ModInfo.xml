@@ -1,0 +1,22 @@
+<Mod ID="Backpacker">
+  <Compatible>1.11b</Compatible>
+  <Button Standard="Alpha9" ID="Menu">
+    <Name>
+      <EN>Menu</EN>
+      <ZH>界面</ZH>
+    </Name>
+    <Description>
+      <EN>Open interface</EN>
+      <ZH>打开界面</ZH>
+    </Description>
+  </Button>
+  <Name>
+    <EN>Backpacker</EN>
+    <ZH>背包客</ZH>
+  </Name>
+  <Description>
+    <EN>The capacity of a lightweight item increases by mod,Unlock the corresponding capacity by collecting weapons and items</EN>
+    <ZH>一个轻量级物品容量增加mod，通过收集武器及物品的方式来解锁对应容量</ZH>
+  </Description>
+  <Version>1.3.1</Version>
+</Mod>
